@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba4899ca-b7c6-411d-9c62-754a68acf1d7": {
+      "ProjectGuid": "ba4899ca-b7c6-411d-9c62-754a68acf1d7",
+      "DisplayName": "Vendas.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
