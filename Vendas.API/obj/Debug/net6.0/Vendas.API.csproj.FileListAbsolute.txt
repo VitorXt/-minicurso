@@ -25,3 +25,5 @@ C:\Users\044263\Documents\Minicurso\Minicurso\Vendas.API\obj\Debug\net6.0\Vendas
 C:\Users\044263\Documents\Minicurso\Minicurso\Vendas.API\obj\Debug\net6.0\ref\Vendas.API.dll
 C:\Users\044263\Documents\Minicurso\Minicurso\Vendas.API\obj\Debug\net6.0\Vendas.API.pdb
 C:\Users\044263\Documents\Minicurso\Minicurso\Vendas.API\obj\Debug\net6.0\Vendas.API.genruntimeconfig.cache
+C:\Users\044263\Documents\Minicurso\Vendas.API\obj\Debug\net6.0\Vendas.API.dll
+C:\Users\044263\Documents\Minicurso\Vendas.API\obj\Debug\net6.0\Vendas.API.pdb

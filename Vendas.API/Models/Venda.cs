@@ -9,7 +9,7 @@
         //status -> Iniciada, Finalizada, Cancelada
         public StatusVenda StatusVenda { get; set; }
 
-
+        //
 
 
     }
